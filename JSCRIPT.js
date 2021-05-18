@@ -16,7 +16,7 @@ console.log(num);
 console.log (" 3.BOOLEAN");
 var h = 20; // DECLARATION AND ASSIGNING
 var y = 20 - 10; // DECLARATION AND ASSIGNING
-var compare = h > y;
+var compare = h < y;
 console.log (compare);
 
 console.log("4.FLOAT");
